@@ -1,0 +1,10 @@
+.statistics ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.statisticsItem {
+  margin-bottom: 10px;
+  font-size: 22px;
+}

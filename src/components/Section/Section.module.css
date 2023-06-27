@@ -1,0 +1,9 @@
+* {
+  text-decoration: none;
+  list-style: none;
+}
+
+.section {
+  width: 600px;
+  margin-bottom: 20px;
+}
